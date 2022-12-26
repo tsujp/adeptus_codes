@@ -1,0 +1,209 @@
+https://bsp-cdn-prod.atoma.cloud/items/versions/69618/UbFdgwpWmwMIWrhZpi6jw%252B7RhxQevcc3zNuf.json
+x-amz-meta-author: backend-backend
+date: Wed, 21 Dec 2022 09:17:49 GMT
+content-type: application/json
+via: 1.1 2105e9591880f79863df3d8c99a17988.cloudfront.net (CloudFront)
+server: AmazonS3
+last-modified: Wed, 21 Dec 2022 09:11:37 GMT
+age: 13286
+x-amz-meta-build-id: 250463
+x-amz-meta-build-description: Upload from TeamCity Build Agent
+vary: Origin
+x-amz-cf-id: hiwJtZ88luH2-BTHFbXhqkTvyq8E-q3zYA8ui6BSGSCS1o_GtbERZA==
+x-amz-meta-game-version: 1.0.21-b250463
+transfer-encoding: chunked
+etag: W/"5e20d324f676f2fcce376fcefd676e4b"
+connection: keep-alive
+x-amz-meta-content-revision: 69618
+x-amz-meta-branch-name: branches/REL_2022_12_05_Patch1.0.2x
+content-encoding: gzip
+x-cache: Hit from cloudfront
+
+https://bsp-cdn-prod.atoma.cloud/items/versions/69401/UbFfhARrjQ137pZppC2pztzXiB4DT0Ez3MCt.json
+x-amz-meta-author: backend-backend
+date: Fri, 16 Dec 2022 10:57:03 GMT
+content-type: application/json
+via: 1.1 1f8f9cf6d7da51cc4ed1c2173cb0988c.cloudfront.net (CloudFront)
+server: AmazonS3
+last-modified: Thu, 15 Dec 2022 08:52:46 GMT
+age: 63421
+x-amz-meta-build-id: 249199
+x-amz-meta-build-description: Upload from TeamCity Build Agent
+vary: Origin
+x-amz-cf-id: csJXc13Q89uVzsWaf7zueTtKd1ecNbI58dUmo4Rxq1iD-s-XUN8FLg==
+x-amz-meta-game-version: 1.0.20-b249199
+transfer-encoding: chunked
+etag: W/"8eaced2fa096fda43a22413c49ac1de6"
+connection: keep-alive
+x-amz-meta-content-revision: 69401
+x-amz-meta-branch-name: branches/REL_2022_12_05_Patch1.0.2x
+content-encoding: gzip
+x-cache: Hit from cloudfront
+
+https://bsp-cdn-prod.atoma.cloud/items/versions/68805/UbBSlgxfjAAJVr1aqxe5yt3cjg4HTkw9N1Ot.json
+x-amz-meta-author: backend-backend
+date: Fri, 09 Dec 2022 09:14:48 GMT
+content-type: application/json
+via: 1.1 d3cb94c04abf7357b79249231e20e5ae.cloudfront.net (CloudFront)
+server: AmazonS3
+last-modified: Tue, 06 Dec 2022 17:02:48 GMT
+age: 17958
+x-amz-meta-build-id: 246568
+x-amz-meta-build-description: Upload from TeamCity Build Agent
+vary: Origin
+x-amz-cf-id: qeqczh-hNKTt1E8nrE6-QM5Ipsc-qiZE0Pw-jmXi-xqo8qbI14aWHQ==
+x-amz-meta-game-version: 1.0.14-b246568
+transfer-encoding: chunked
+etag: W/"b2c71d8cc782f232791f42253870bf77"
+connection: keep-alive
+x-amz-meta-content-revision: 68805
+x-amz-meta-branch-name: branches/REL_2022_10_27_Week2and3
+content-encoding: gzip
+x-cache: Hit from cloudfront
+
+https://bsp-cdn-prod.atoma.cloud/items/versions/68488/UbBeigFoigANW6Zouwu0we%252Fc%252BpMRTkA5ydGu.json
+x-amz-meta-author: backend-backend
+date: Fri, 02 Dec 2022 09:09:38 GMT
+content-type: application/json
+via: 1.1 5430900f1bb661a284e84764720d1108.cloudfront.net (CloudFront)
+server: AmazonS3
+last-modified: Thu, 01 Dec 2022 16:52:59 GMT
+age: 70081
+x-amz-meta-build-id: 244580
+x-amz-meta-build-description: Upload from TeamCity Build Agent
+vary: Origin
+x-amz-cf-id: 0BLCkAJC4o42dIlJG54dGA4d2Ti4Ma7KHj7wBxqN_5Cb83OpuwMW6w==
+x-amz-meta-game-version: 1.0.13-b244580
+transfer-encoding: chunked
+etag: W/"829d3285c9d8c003048b38e54a684ab1"
+connection: keep-alive
+x-amz-meta-content-revision: 68488
+x-amz-meta-branch-name: branches/REL_2022_10_27_Week2and3
+content-encoding: gzip
+x-cache: Hit from cloudfront
+
+https://bsp-cdn-prod.atoma.cloud/items/versions/68419/UbBegwtXnAx046ZouwK6wu3Qgx0fvsAz1dic.json
+x-amz-meta-author: backend-backend
+date: Thu, 01 Dec 2022 23:46:19 GMT
+content-type: application/json
+via: 1.1 30b1a589e26467ad1d2ad1c2d68cdea6.cloudfront.net (CloudFront)
+server: AmazonS3
+last-modified: Thu, 01 Dec 2022 16:53:01 GMT
+age: 24797
+x-amz-meta-build-id: 244458
+x-amz-meta-build-description: Upload from TeamCity Build Agent
+vary: Origin
+x-amz-cf-id: ApDjmBJfQo9MHyEXXvo4kt-v8HhOE55XEJ_l4lyuKOlDkqQLzNfUjg==
+x-amz-meta-game-version: 1.0.12-b244458
+transfer-encoding: chunked
+etag: W/"a779b8ebdd60e13888278b4302a112fe"
+connection: keep-alive
+x-amz-meta-content-revision: 68419
+x-amz-meta-branch-name: branches/REL_2022_10_27_Week2and3
+content-encoding: gzip
+x-cache: Hit from cloudfront
+
+https://bsp-cdn-prod.atoma.cloud/items/versions/68344/UbBZmXfoiwUIUb5YvAC22d%252Fb9ZEpvsc9ycWu.json
+x-amz-meta-author: backend-backend
+date: Wed, 30 Nov 2022 10:26:38 GMT
+content-type: application/json
+via: 1.1 2105e9591880f79863df3d8c99a17988.cloudfront.net (CloudFront)
+server: AmazonS3
+last-modified: Tue, 29 Nov 2022 23:50:46 GMT
+age: 79500
+x-amz-meta-build-id: 243511
+x-amz-meta-build-description: Upload from TeamCity Build Agent
+vary: Origin
+x-amz-cf-id: JP7fCfqOE0tBXDXK7TJ_F_wldVEyUv5TRzm6YZPR8dcT5zhlPtJw7Q==
+x-amz-meta-game-version: 1.0.11-b243511
+transfer-encoding: chunked
+etag: W/"7b9a0998290a9c9aa43a1653f14b9309"
+connection: keep-alive
+x-amz-meta-content-revision: 68344
+x-amz-meta-branch-name: branches/REL_2022_10_27_Week2and3
+content-encoding: gzip
+x-cache: Hit from cloudfront
+
+https://bsp-cdn-prod.atoma.cloud/items/versions/67724/Ub9OgwVshRh617tVuQK03dDu958FQVA2xdWh.json
+x-amz-meta-author: backend-backend
+date: Thu, 24 Nov 2022 13:46:58 GMT
+content-type: application/json
+via: 1.1 a57d5b106eeca2cda8fd1ae27bc6a7d2.cloudfront.net (CloudFront)
+server: AmazonS3
+last-modified: Thu, 24 Nov 2022 13:05:44 GMT
+age: 62513
+x-amz-meta-build-id: 239769
+x-amz-meta-build-description: Upload from TeamCity Build Agent
+vary: Origin
+x-amz-cf-id: DYb4eLzhviunq_cyTCjOKvRKhIW58jvzL9_peCLIdpx7sz8uryMb0Q==
+x-amz-meta-game-version: 1.0.8-b239769
+transfer-encoding: chunked
+etag: W/"2980853f0f8b7aa0049bf51ead75476f"
+connection: keep-alive
+x-amz-meta-content-revision: 67724
+x-amz-meta-branch-name: branches/REL_2022_11_15_pob_new
+content-encoding: gzip
+x-cache: Hit from cloudfront
+
+https://bsp-cdn-prod.atoma.cloud/items/versions/67317/Ub9KnHHtghx93axXvQWw2NLq8JcWQ1Q5z8Kj.json
+x-amz-meta-author: backend-backend
+date: Tue, 22 Nov 2022 11:10:55 GMT
+content-type: application/json
+via: 1.1 404908a44b28b9941efc528aa5e2c114.cloudfront.net (CloudFront)
+server: AmazonS3
+last-modified: Mon, 21 Nov 2022 16:18:05 GMT
+age: 6634
+x-amz-meta-build-id: 238766
+x-amz-meta-build-description: Upload from TeamCity Build Agent
+vary: Origin
+x-amz-cf-id: 4obZ2wi3vXGsHJnY63rahiYTUC086TRslANikFJqSPI1yYeo8ZvD8Q==
+x-amz-meta-game-version: 1.0.7-b238766
+transfer-encoding: chunked
+etag: W/"744e116456c0f1f10b824ee8a552315d"
+connection: keep-alive
+x-amz-meta-content-revision: 67317
+x-amz-meta-branch-name: branches/REL_2022_11_15_pob_new
+content-encoding: gzip
+x-cache: Hit from cloudfront
+
+https://bsp-cdn-prod.atoma.cloud/items/versions/67139/Ub9ImHnrgh591aJnvwWwxuLojAMTQVY5w9yT.json
+x-amz-meta-author: backend-backend
+date: Fri, 18 Nov 2022 18:20:58 GMT
+content-type: application/json
+via: 1.1 cc095ddd820675d78dd3f1b80b3822cc.cloudfront.net (CloudFront)
+server: AmazonS3
+last-modified: Fri, 18 Nov 2022 12:58:40 GMT
+age: 37267
+x-amz-meta-build-id: 238080
+x-amz-meta-build-description: Upload from TeamCity Build Agent
+vary: Origin
+x-amz-cf-id: Pz4wxlOrIYTi_UHEwvAnTCWl5Cfk2PEPNaSuYeRsP7-f1b2AvEBH4g==
+x-amz-meta-game-version: 1.0.5-b238080
+transfer-encoding: chunked
+etag: W/"744e116456c0f1f10b824ee8a552315d"
+connection: keep-alive
+x-amz-meta-content-revision: 67139
+x-amz-meta-branch-name: branches/REL_2022_11_15_pob_new
+content-encoding: gzip
+x-cache: Hit from cloudfront
+
+https://bsp-cdn-prod.atoma.cloud/items/versions/66956/Ub5BlgBshBdz7K9UtB%252Bh2dHjjg4Yst8mxtWg.json
+x-amz-meta-author: backend-backend
+date: Thu, 17 Nov 2022 16:13:43 GMT
+content-type: application/json
+via: 1.1 14e06bd3949568687103b6759131a70a.cloudfront.net (CloudFront)
+server: AmazonS3
+last-modified: Wed, 16 Nov 2022 23:23:44 GMT
+age: 67392
+x-amz-meta-build-id: 237317
+x-amz-meta-build-description: Upload from TeamCity Build Agent
+vary: Origin
+x-amz-cf-id: bvKqU0GyiZRQpzY1eImuDgYSuZ7R26Fg4OnoLUaSSqsc_zFtcKQJrQ==
+x-amz-meta-game-version: 1.0.5-b237317
+transfer-encoding: chunked
+etag: W/"744e116456c0f1f10b824ee8a552315d"
+connection: keep-alive
+x-amz-meta-content-revision: 66956
+x-amz-meta-branch-name: branches/REL_2022_11_15_pob_new
+content-encoding: gzip
+x-cache: Hit from cloudfront
